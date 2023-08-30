@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>phuocdien</title>
+	<!-- TemplateEndEditable -->
+	<link rel="stylesheet" href="../css/all.min.css">
+<link rel="stylesheet" href="../css/bootstrap.css">
+	<link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="../css/owl.carousel.min.css" type="text/css">
+	<link rel="stylesheet" href="../css/owl.theme.default.css" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>	
+<body>
+<nav class="navbar navbar-expand-lg bg-light border-bot">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#"><img src="../imagex/logoDiw.png" alt="hinh"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#aventador">Aventador</a>
+        </li>
+		  <li class="nav-item">
+          <a class="nav-link" href="#huracan">Huracan</a>
+        </li>
+		  <li class="nav-item">
+          <a class="nav-link" href="#special version">Special Version</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Product
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#product">Explore Our Product</a></li>
+			  <li><a class="dropdown-item" href="#media">Social Media</a></li>
+            <li><a class="dropdown-item" href="#aventador">Aventador</a></li>
+			  <li><a class="dropdown-item" href="#huracan">Huracan</a></li>
+            <li><a class="dropdown-item" href="#special version">Special Version</a></li>       
+          </ul>
+        </li>
+		  <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Car Model
+          </a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#aventador">Lamborghini Aventador</a></li>
+            <li><a class="dropdown-item" href="#huracan">Lamborghini Huracan</a></li>
+			  <li><a class="dropdown-item" href="#special version">Special Version</a></li>       
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="../aboutus.html">About Us</a>
+        </li>
+      </ul>			
+    </div>
+  </div>
+</nav>
+	<!-- TemplateBeginEditable name="EditRegion1" -->
+	<main></main>
+	<!-- TemplateEndEditable -->
+	<footer class="bg-dark text-light">
+	<div class="container">
+	<div class="row py-4">
+		<div class="col-lg-3">
+			<div class="logotrang">
+		<a href="#"><img src="../imagex/logoDiwchutrang.png" alt="hinh"></a>
+			</div>
+		<p class="pt-3">99A, Hamlet 3A, Phuoc Loi Commune, Ben Luc District, Long An Province</p>
+		<p>phuocdienle102@gmail.com</p>
+		<p>037-901-7054</p>
+		</div>
+		<div class="col-lg-3">
+		<h4>Shopping &amp; Categories </h4>
+		<ul class="nav flex-column">
+			<li class="nav-item"><a href="#" class="nav-link">Aventador Shopping</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">Huracan Shopping</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">Special Version Shopping</a></li>
+		  </ul>
+		</div>
+				<div class="col-lg-3">
+		<h4>Useful Links</h4>
+		<ul class="nav flex-column">
+		  <li class="nav-item"><a href="#" class="nav-link">Homepage</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">About Us</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">Help</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Contact Us</a></li>
+			</ul>
+		</div>
+				<div class="col-lg-3">
+		<h4>Help &amp; Information </h4>
+		<ul class="nav flex-column">
+			<li class="nav-item"><a href="#" class="nav-link">Introduce</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">Terms Of Use</a></li>
+		<li class="nav-item"><a href="#" class="nav-link">Frequently Asked Questions (FAQ)</a></li>
+			<li class="nav-item"><a href="#" class="nav-link">Customer Center</a></li>
+			</ul>
+		</div>
+		</div>
+	</div>	
+	</footer>
+	<div class="footercuoi bg-dark text-light">
+	<p class="text-center"><i>Copyright © 2023 PhuocDien SCK., Lpd Super Car King. <br>Design: <span class="chuxanhduong">Phuocdien</span></i></p>			
+	</div>
+    <script src="../js/bootstrap.bundle.min.js"></script>
+	<script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+	<script type="text/javascript" src="../js/owl.carousel.js"></script>
+	<script type="text/javascript" src="../js/custom.js"></script>
+</body>
+</html>
